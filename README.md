@@ -20,7 +20,7 @@ Estas son las equivalencias de markdown y html
 1. Lista
 2. Ordenada
 
-[x]CheckBox
+- [x] CheckBox
 
 > Quote
 
