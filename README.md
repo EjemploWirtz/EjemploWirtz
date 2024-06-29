@@ -33,6 +33,6 @@ Estas son las equivalencias de markdown y html
 |Una |Tabla   |
 |Con |Columnas|
 
-[!NOTE]
+> [!NOTE]
 > Estas son notas, puedes encontrar más información [aquí](https://github.com/orgs/community/discussions/16925)
 > Esto es **negrita**, esto _itálica_, esto ~~tachado~~
